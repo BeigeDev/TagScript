@@ -6,7 +6,7 @@ TagScript helps you make it easy to select and edit HTML elements.
 
 2. Paste it above all the scripts in your HTML<br>
   <sup>Example:</sup><br>
-><script src="https://github.com/BeigeDev/TagScript/blob/main/tgs.js">
+><script src="https://github.com/BeigeDev/TagScript/blob/main/tgs.js"></script>
   
 3. Done, use it in your project!<br>
   <sup>Select your elements like this:</sup><br>
